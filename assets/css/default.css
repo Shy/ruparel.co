@@ -49,6 +49,10 @@
  	visibility: visible
  }
 
+#logo{
+	min-width:320px;
+}
+
  a {
  	color: white;
  }
